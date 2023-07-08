@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Graphic Designing</title>
+  <style>
+    body 
+    {
+      
+      background-color: rgb(35, 231, 133);
+      color: #ca0000;
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      color: #fca2c4;
+      background-color: #197ac9;
+      padding: 10px;
+    }
+
+    h2 {
+      color: #330588;
+      padding: 10px;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    
+    
+    a {
+      color: #f37610;
+      text-decoration: none;
+    }
+    
+    p {
+      margin-bottom: 20px;
+    }
+    
+    footer {
+      background-color: #b324d6;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  
+  <header>
+    <h1><center><u>GRAPHIC DESIGNING<br>BY FAZLAN</u></center></h1>
+    <img src="BOR.png" alt="My Logo" width="120" height="120" align="right" 
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/FAZ.HTML">Home</a></li>
+      <li><a href="file:///C:/Users/user/Desktop/About.html">Editing World</a></li>
+      <li><a href="#">Options</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <marquee>Fazlan</marquee>
+    
+    
+    <section>
+      <h2><center><u>Links</u></center></h2>
+      <p align="center">Click <a href="https://www.example.com">here</a> to visit Example.com.</p>
+    </section>
+    
+    <section>
+      <h2><center><u>Images</u></center></h2>
+      <center><img src="SHE HULK 2022.png" alt="Designed from the movie poster she hulk"</center>
+      
+    </section>
+    
+    <section>
+      <h2><center><u>Videos</u></center></h2>
+      <center><video width="720" height="420" controls>
+           <source src="vid for web.mp4" type="video/mp4">
+      </video></center>
+    </section>
+  </main>
+  
+  <footer>
+    &copy; 2023 Graphic Designing By Fazlan.
+  </footer>
+</body>
+</html>

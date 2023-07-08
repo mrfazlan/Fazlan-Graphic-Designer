@@ -1,0 +1,90 @@
+<html>
+<head>
+  <title>Graphic Designing</title>
+  <style>
+    body 
+    {
+      
+      background-color: aquamarine;
+      color: #00ffff;
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      color: #fca2c4;
+      background-color: #197ac9;
+      padding: 10px;
+    }
+
+    h2 {
+      color: #0930db;
+      padding: 10px;
+    }
+
+    
+    
+    a {
+      color: #f37610;
+      text-decoration: none;
+    }
+    
+    p {
+      margin-bottom: 20px;
+    }
+    
+    footer {
+      background-color: #b324d6;
+      padding: 20px;
+      text-align: center;
+    }
+
+</style>
+</head>
+<body>
+  
+  <header>
+    <h1><center><u>WELCOME TO THE<BR>EDITING WORLD</u></center></h1>
+    <img src="BOR.png" alt="My Logo" width="120" height="120" align="right" 
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/FAZ.HTML">Home</a></li>
+      <li><a href="file:///C:/Users/user/Desktop/About.html">Editing World</a></li>
+      <li><a href="file:///C:/Users/user/Desktop/Tutorials.html">Tutorials</a></li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <marquee>Fazlan</marquee>
+    
+    
+    <section>
+      <h2><center><u>Images</u></center></h2>
+      <center><img src="intro in ps2.jpg" alt="Designed from the movie poster" width="1080" height="720"</center>
+      </section>
+
+      <section>
+        <h2><center><u>Next</u></center></h2>
+      <center><img src="encanto title.jpg" alt="Designed from the movie poster" width="1080" height="720"</center>
+
+      <section>
+        <h2><center><u>Next</u></center></h2>
+      <center><img src="title (3).jpg" alt="Designed from the movie poster" width="1080" height="720"</center>
+
+      <section>
+        <h2><center><u>Next</u></center></h2>
+      <center><img src="LIGHTYEAR 2.jpg" alt="Designed from the movie poster" width="1080" height="720"</center>
+      
+    </section>
+    
+   
+    </section>
+  </main>
+  
+  <footer>
+    &copy; 2023 Graphic Designing By Fazlan.
+  </footer>
+</body>
+</html>
